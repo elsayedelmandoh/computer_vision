@@ -1,4 +1,4 @@
-# Computer Vision Repository
+## Computer Vision Repository
 
 Welcome to the 'Computer Vision' repository! This repository serves as your comprehensive guide to understanding and implementing Computer Vision techniques using Python. Dive into various topics, from basic introductions to advanced techniques, to gain a deeper understanding of processing and analyzing images.
 
@@ -16,6 +16,12 @@ Welcome to the 'Computer Vision' repository! This repository serves as your comp
 10. SIFT Approach and Feature Matching: Dive into the Scale-Invariant Feature Transform (SIFT) approach for feature extraction and matching in images.
 
 Whether you're new to Computer Vision or seeking to deepen your understanding of advanced techniques, this repository provides valuable content, examples, and resources to support your learning journey.
+
+## Projects
+
+[Recognition ID ERU](https://github.com/elsayedelmandoh/recognition-id-eru)
+
+[Detect Terrorists](https://github.com/elsayedelmandoh/detect-terrorists)
 
 ## Contributing
 
